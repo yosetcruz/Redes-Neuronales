@@ -1,0 +1,14 @@
+{"time":"2026-05-09T01:04:23.075288-06:00","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-05-09T01:04:47.9656399-06:00","level":"ERROR","msg":"monitor: failed to initialize GPU resource: monitor: could not get GPU binary port: timeout reading portfile C:\\Users\\YOSETC~1\\AppData\\Local\\Temp\\wandb-system-monitor-portfile-3331324373"}
+{"time":"2026-05-09T01:05:15.7409983-06:00","level":"INFO","msg":"stream: created new stream","id":"8qnh722v"}
+{"time":"2026-05-09T01:05:15.7409983-06:00","level":"INFO","msg":"handler: started","stream_id":"8qnh722v"}
+{"time":"2026-05-09T01:05:15.7409983-06:00","level":"INFO","msg":"stream: started","id":"8qnh722v"}
+{"time":"2026-05-09T01:05:15.751007-06:00","level":"INFO","msg":"sender: started","stream_id":"8qnh722v"}
+{"time":"2026-05-09T01:05:15.7409983-06:00","level":"INFO","msg":"writer: started","stream_id":"8qnh722v"}
+{"time":"2026-05-09T01:26:31.4307282-06:00","level":"ERROR","msg":"sender: sendSystemMetrics called after exit"}
+{"time":"2026-05-09T01:26:36.991047-06:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-05-09T01:26:37.6659942-06:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-05-09T01:26:38.2473903-06:00","level":"INFO","msg":"stream: closing","id":"8qnh722v"}
+{"time":"2026-05-09T01:26:38.2473903-06:00","level":"INFO","msg":"handler: closed","stream_id":"8qnh722v"}
+{"time":"2026-05-09T01:26:38.247994-06:00","level":"INFO","msg":"sender: closed","stream_id":"8qnh722v"}
+{"time":"2026-05-09T01:26:38.247994-06:00","level":"INFO","msg":"stream: closed","id":"8qnh722v"}

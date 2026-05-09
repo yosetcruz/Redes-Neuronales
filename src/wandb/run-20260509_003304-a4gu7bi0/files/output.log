@@ -1,0 +1,19 @@
+Traceback (most recent call last):
+  File "C:\Users\yoset cruz\Documents\Redes Neuronales\house_purchase_prediction\src\train.py", line 22, in <module>
+    X, y, scaler = load_and_preprocess("../data/global_house_purchase_dataset.csv")
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yoset cruz\Documents\Redes Neuronales\house_purchase_prediction\src\utils.py", line 11, in load_and_preprocess
+    X = df.drop(columns=[target_col])
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yoset cruz\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\frame.py", line 6288, in drop
+    return super().drop(
+           ^^^^^^^^^^^^^
+  File "C:\Users\yoset cruz\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\generic.py", line 4644, in drop
+    obj = obj._drop_axis(labels, axis, level=level, errors=errors)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yoset cruz\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\generic.py", line 4686, in _drop_axis
+    new_axis = axis.drop(labels, errors=errors)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yoset cruz\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 7268, in drop
+    raise KeyError(f"{labels[mask].tolist()} not found in axis")
+KeyError: "['Decision'] not found in axis"

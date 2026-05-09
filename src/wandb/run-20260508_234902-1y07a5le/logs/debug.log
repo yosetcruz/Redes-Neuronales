@@ -1,0 +1,13 @@
+2026-05-08 23:49:02,856 INFO    MainThread:52464 [wandb_setup.py:_flush():81] Current SDK version is 0.25.0
+2026-05-08 23:49:02,856 INFO    MainThread:52464 [wandb_setup.py:_flush():81] Configure stats pid to 52464
+2026-05-08 23:49:02,856 INFO    MainThread:52464 [wandb_setup.py:_flush():81] Loading settings from environment variables
+2026-05-08 23:49:02,856 INFO    MainThread:52464 [wandb_init.py:setup_run_log_directory():717] Logging user logs to C:\Users\yoset cruz\Documents\Redes Neuronales\house_purchase_prediction\src\wandb\run-20260508_234902-1y07a5le\logs\debug.log
+2026-05-08 23:49:02,856 INFO    MainThread:52464 [wandb_init.py:setup_run_log_directory():718] Logging internal logs to C:\Users\yoset cruz\Documents\Redes Neuronales\house_purchase_prediction\src\wandb\run-20260508_234902-1y07a5le\logs\debug-internal.log
+2026-05-08 23:49:02,856 INFO    MainThread:52464 [wandb_init.py:init():844] calling init triggers
+2026-05-08 23:49:02,856 INFO    MainThread:52464 [wandb_init.py:init():849] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.001, 'batch_size': 64, 'epochs': 50, 'hidden_dims': [128, 64, 32], 'dropout': 0.3, 'optimizer': 'Adam', '_wandb': {}}
+2026-05-08 23:49:02,856 INFO    MainThread:52464 [wandb_init.py:init():892] starting backend
+2026-05-08 23:49:09,756 INFO    MainThread:52464 [wandb_init.py:init():895] sending inform_init request
+2026-05-08 23:49:12,607 INFO    MainThread:52464 [wandb_init.py:init():903] backend started and connected
+2026-05-08 23:49:13,892 INFO    MainThread:52464 [wandb_init.py:init():973] updated telemetry
+2026-05-08 23:49:13,894 INFO    MainThread:52464 [wandb_init.py:init():997] communicating run to backend with 90.0 second timeout

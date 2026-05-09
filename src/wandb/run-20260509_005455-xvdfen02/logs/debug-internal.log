@@ -1,0 +1,12 @@
+{"time":"2026-05-09T00:55:26.0735378-06:00","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-05-09T00:55:37.118597-06:00","level":"ERROR","msg":"monitor: failed to initialize GPU resource: monitor: could not get GPU binary port: timeout reading portfile C:\\Users\\YOSETC~1\\AppData\\Local\\Temp\\wandb-system-monitor-portfile-1443260610"}
+{"time":"2026-05-09T00:55:42.4821271-06:00","level":"INFO","msg":"stream: created new stream","id":"xvdfen02"}
+{"time":"2026-05-09T00:55:42.5336563-06:00","level":"INFO","msg":"handler: started","stream_id":"xvdfen02"}
+{"time":"2026-05-09T00:55:42.6487833-06:00","level":"INFO","msg":"stream: started","id":"xvdfen02"}
+{"time":"2026-05-09T00:55:42.660308-06:00","level":"INFO","msg":"writer: started","stream_id":"xvdfen02"}
+{"time":"2026-05-09T00:55:42.6638171-06:00","level":"INFO","msg":"sender: started","stream_id":"xvdfen02"}
+{"time":"2026-05-09T00:55:52.9859348-06:00","level":"INFO","msg":"stream: closing","id":"xvdfen02"}
+{"time":"2026-05-09T00:55:53.8856177-06:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-05-09T00:55:54.0413714-06:00","level":"INFO","msg":"handler: closed","stream_id":"xvdfen02"}
+{"time":"2026-05-09T00:55:54.0429554-06:00","level":"INFO","msg":"sender: closed","stream_id":"xvdfen02"}
+{"time":"2026-05-09T00:55:54.0429554-06:00","level":"INFO","msg":"stream: closed","id":"xvdfen02"}

@@ -1,0 +1,24 @@
+{
+  "os":  "Windows-11-10.0.22000-SP0",
+  "python":  "CPython 3.12.3",
+  "startedAt":  "2026-05-09T07:04:11.744687Z",
+  "program":  "C:\\Users\\yoset cruz\\Documents\\Redes Neuronales\\house_purchase_prediction\\src\\train.py",
+  "codePath":  "train.py",
+  "codePathLocal":  "train.py",
+  "email":  "yosetcruz92@gmail.com",
+  "root":  "C:\\Users\\yoset cruz\\Documents\\Redes Neuronales\\house_purchase_prediction\\src",
+  "host":  "LAPTOP-OG4ALD0O",
+  "executable":  "C:\\Users\\yoset cruz\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+  "cpu_count":  2,
+  "cpu_count_logical":  2,
+  "disk":  {
+    "/":  {
+      "total":  "998865104896",
+      "used":  "137184575488"
+    }
+  },
+  "memory":  {
+    "total":  "6312697856"
+  },
+  "writerId":  "sh8sss4dc29djyuzvdy0wgap0sqxp2ea"
+}
